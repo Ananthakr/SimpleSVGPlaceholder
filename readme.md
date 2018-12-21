@@ -2,6 +2,8 @@
 
 It returns an SVG file with requested size and character at center. It can be used to replace egghead icons with image having user's first character at center.
 
+[Click here for demo](https://simple-svg-placeholder.herokuapp.com/)
+
 ### params
 
 | Param     | default |                                                   type |
